@@ -80,7 +80,7 @@ int yywrap() {
 
 ````
 # OUTPUT
-![Screenshot 2025-04-29 133712](https://github.com/user-attachments/assets/d3d7dc21-fda0-404b-99d8-aee2650d0c7a)
+![image](https://github.com/user-attachments/assets/f9271405-6edd-40c6-8bfa-4eebc6987509)
 
 
 # RESULT
