@@ -1,5 +1,6 @@
 ## Name: VINNUSHKUMAR L S 
 ## Register number: 212223230244
+## Date:29/04/2025
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
